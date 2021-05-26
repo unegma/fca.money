@@ -71,4 +71,16 @@ code {
 .site-container {
   height: 100vh;
   padding: 25px 0;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+}
+
+body {
+  background-color: #fca29d;
+  color: white;
+}
+
+.black {
+  color: black;
 }

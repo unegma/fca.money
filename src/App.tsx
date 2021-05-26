@@ -14,8 +14,12 @@ function App() : JSX.Element {
       <Container className="site-container" maxWidth="sm">
 
         <br/>
-        <Typography>The definitive list for projects in the Zero Knowledge Space</Typography>
-        <Typography className="red">This site is in Beta, please <a target="_blank" href="https://unegma.com/contact">drop a message</a> if you feel there is any error</Typography>
+        <Typography variant="h1">DYOR</Typography>
+        <Typography variant="h5">(Do Your Own Research)</Typography>
+        <br/>
+
+        <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma (not affiliated with the FCA)<br/></a></p>
+        <p className="black">thanks to Freddie for the idea</p>
         <br/>
       </Container>
 
