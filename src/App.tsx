@@ -19,7 +19,7 @@ function App() : JSX.Element {
         <br/>
 
         <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma (not affiliated with the FCA)<br/></a></p>
-        <p className="black">thanks to Freddie for the idea</p>
+        <p className="black">thanks to <a href="https://twitter.com/FreddieFarmer" target="_blank" className="hi">Freddie</a> for the idea</p>
         <br/>
       </Container>
 
